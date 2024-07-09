@@ -22,8 +22,8 @@ Admins have the capability to manage products, users, and orders efficiently, en
 ### Product Page
 ![Product Page](screenshots/product-page.png)
 
-### Order Placement
-![Order Placement](screenshots/order-placement.png)
+### Order Payment
+![Order Payment](screenshots/order-payment.png)
 
 ## User Functionalities
 1. **Register and Log In:**
